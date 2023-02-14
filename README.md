@@ -21,6 +21,6 @@ Downloads all your favourited GIFs on Discord.
 
 Have you ever had a moment where you stumble upon the perfect GIF on Discord, that sums up exactly what you're feeling and end up favouriting it? That happens to me on a VERY frequent basis.
 
-However, as I kept favouriting more and more, I realised that there was a limit to how many GIFs I could favourite; the `GIFFavoritesStore` had a size limit. I didn't want to lose any of my beloved GIFs, so I started looking for a solution.
+However, as I kept favouriting more and more, I realised that there was a limit to how many GIFs I could favourite; the `GIFFavoritesStore` had a [size limit](https://www.reddit.com/r/discordapp/comments/100cduu/cant_have_more_than_1299_favourited_gifs/). I didn't want to lose any of my beloved GIFs, so I started looking for a solution.
 
 That's when I came up with the idea of this script. It would allow me to download all my favourited GIFs with short file names so that I could reupload them to another site with shorter URLs (since Tenor and Discord links tend to be quite lengthy).
