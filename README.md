@@ -17,6 +17,7 @@ Downloads all your favourited GIFs on Discord.
 - Install required packages by running `python -m pip install -r requirements.txt`
 - Run the script using `python get_gifs.py --json-file-path <path to GIFFavoritesStore data file>`
     - You can use the `--dont-rename-files` option to download files with their original names, instead of renaming them to hex strings.
+- Review `output` directory and `failed.txt`
 
 ## Why does this exist?
 
